@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **manshi1130@gmail.com**
 
-- ⚡ Hobbies - **I read novels and watch anime.**
+- ⚡ Hobbies - **I read novels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
