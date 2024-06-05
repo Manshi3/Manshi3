@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manshi</h1>
-<h3 align="center">I’m a 4th year undergraduate at IGDTUW.</h3>
+<!-- <h3 align="center">I’m a 4th year undergraduate at IGDTUW.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manshi3&label=Profile%20views&color=0e75b6&style=flat" alt="manshi3" /> </p>
 
